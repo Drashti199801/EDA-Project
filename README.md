@@ -14,3 +14,5 @@ Libraries: pandas, matplotlib, seaborn, numpy
 3. Product Category Analysis: Analyzes the distribution of orders across different product categories.
 4. Sales by State Analysis: Highlights the top 10 states with the highest and lowest sales.
 5. Profit Analysis by Product Category: Illustrates the profitability of different product categories.
+
+![image](https://github.com/Drashti199801/EDA-Project/assets/156224544/051eaa4c-eedb-4c3c-889d-a1250428d610)
